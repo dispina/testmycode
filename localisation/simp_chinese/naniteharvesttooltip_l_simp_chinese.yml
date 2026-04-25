@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+  naniteharvest_nanites:0 "§E$sm_nanite_harvester$ 潜力:§!$TABBED_NEW_LINE$- 基础产量: §Y[Root.GetNaniteHarvestMaxNanites]§! £nanites£"

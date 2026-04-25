@@ -1,0 +1,2 @@
+﻿l_russian:
+  naniteharvest_nanites:0 "§EПотенциал $sm_nanite_harvester$:§!$TABBED_NEW_LINE$- Базовое производство: §Y[Root.GetNaniteHarvestMaxNanites]§! £nanites£"

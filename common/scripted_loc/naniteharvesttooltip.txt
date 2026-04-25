@@ -1,0 +1,4 @@
+defined_text = {
+	name = GetNaniteHarvestMaxNanites
+	value = value:naniteharvest_nanites_max
+}

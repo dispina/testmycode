@@ -1,0 +1,14 @@
+nanite_harvest_max_nanites_tooltip = {
+	custom_tooltip = {
+		success_text = naniteharvest_nanites
+		exists = from
+		from = {
+			has_tradition = tr_nanotech_adopt
+		}
+		NOT = {
+			starbase = {
+				has_starbase_building = nanite_harvester
+			}
+		}
+	}
+}
